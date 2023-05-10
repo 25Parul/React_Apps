@@ -1,33 +1,33 @@
-import React, { useEffect, useState } from 'react'
-import FormInput from '../form-input/FormInput'
+import React, { useEffect, useState } from "react";
+import FormInput from "../form-input/FormInput";
+import "./form.css";
 
 const ContactForm = () => {
-    const [username, setUsername] = useState('');
+  const [username, setUsername] = useState("");
 
-    useEffect(() => {
-        console.log(username)
-    }, [username])
+  useEffect(() => {
+    console.log(username);
+  }, [username]);
 
   return (
     <div>
-        <p> Do you have something to say ?</p>
+      <h1> Do you have something to say ?</h1>
       <form id="form">
         <label>
           Name:
-          <input placeholder='Name' />
+          <input placeholder="Name" />
         </label>
         <label>
           Email:
-          <input placeholder='Email Id' />
+          <input placeholder="Email Id" />
         </label>
         <label>
           Message:
-          <input placeholder='Message' />
+          <input placeholder="Message" />
         </label>
-        <FormInput text={'Name'} value={username} onChange={setUsername}/>
       </form>
     </div>
-  )
-}
+  );
+};
 
-export default ContactForm
+export default ContactForm;
