@@ -1,0 +1,48 @@
+[33mcommit 1466090b67b32fba7ca1e83a263d5ba61b33830b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 125ed41 47980d7
+Author: Parul Jain <pjain@LABA.PSWAS.LOCAL>
+Date:   Tue May 9 15:48:53 2023 -0700
+
+    Merge branch 'master' of https://github.com/25Parul/React_Apps
+
+[33mcommit 125ed41637609027c92ed66f07882f17898ded8d[m
+Author: Parul Jain <pjain@LABA.PSWAS.LOCAL>
+Date:   Tue May 9 15:45:35 2023 -0700
+
+    Implemented controlled input for better data management
+
+[33mcommit 47980d7b978b18228973b189a1fb7d2b1267b431[m
+Author: paruljain-25 <107891240+paruljain-25@users.noreply.github.com>
+Date:   Sun May 7 23:04:04 2023 -0700
+
+    Add Form and Sidebar
+
+[33mcommit 608b613fb8c721c9285856b76e25f826278e43ea[m
+Author: paruljain-25 <107891240+paruljain-25@users.noreply.github.com>
+Date:   Sun May 7 20:59:50 2023 -0700
+
+    Added Navbar component with advanced CSS styling
+
+[33mcommit dc91d3e1d0a43cdccd6d364a45fc78828eadd82a[m
+Author: paruljain-25 <107891240+paruljain-25@users.noreply.github.com>
+Date:   Sun May 7 20:46:49 2023 -0700
+
+    Add 'Hello World' component with CSS styling
+
+[33mcommit bdfb1f421f62cff6de36c25e0f254ef4a32c61f7[m
+Author: paruljain-25 <107891240+paruljain-25@users.noreply.github.com>
+Date:   Sun May 7 11:26:43 2023 -0700
+
+    Implemented basic functionality for the app
+
+[33mcommit 9985f5be44282858b54b9c4ee03a9f009f884a06[m
+Author: paruljain-25 <107891240+paruljain-25@users.noreply.github.com>
+Date:   Sun May 7 11:16:31 2023 -0700
+
+    Add gitignore file
+
+[33mcommit 9a1958152ec5c5b9f972815355b1f708d93e31e2[m
+Author: Parul Jain <pjain@LABA.PSWAS.LOCAL>
+Date:   Thu May 4 14:08:26 2023 -0700
+
+    Apps Repo - react.js
